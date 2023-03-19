@@ -20,7 +20,7 @@ const store = {
 		prodIncart: [],
 		allcart: [],
 		cartLenght: 0,
-		BaseUrl: 'http://192.168.31.6:2020/'
+		BaseUrl: 'http://194.58.111.67:2020/'
 
 	},
 	getters: {
